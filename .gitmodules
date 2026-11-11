@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/SahanaLV/client
+[submodule "server"]
+	path = server
+	url = https://github.com/SahanaLV/clinic-api
+[submodule "clinic-api"]
+	path = clinic-api
+	url = https://github.com/SahanaLV/clinic-api
